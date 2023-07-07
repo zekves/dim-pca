@@ -1,4 +1,4 @@
-# Dimensions of change exploratory analysis
+# Dimensions of change exploratory analysis 1
 
 - In reading, Hindy et al. (2012) show a correlation between brain activation (BOLD) and the severity of the change described by each sentence. For example, a sentence describing a "cut the cake" event would likely elicit greater activitation than a "photograph the cake" event. Some events describe large physical changes (like cutting a cake) but some drastic changes could also have little corresponding physical change (like signing legal paperwork). Does the brain (and cognitive system) treat all types of change the same? What types does it care about?
 - Method: Collected ratings using Qualtrics for 120 sentences describing different events. Participants rated sentences along 22 possible dimensions of change on a scale from 1-7. 
