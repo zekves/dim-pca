@@ -465,5 +465,5 @@ melted.head()
 
 
 
-# Tentative Takeaway
+# Initial Takeaway
 The k-means clustering seems useful for describing BOLD based on sentence feeatures, however I'm curious the extent to which it is just approximating a split along a general change rating. Component 0 does correlate decently with bold and also bisects the k-means clusters. The dimensions of Form, Weight, and Texture have the highest weights, and intuitively do all seem to be related to physical characteristics. This suggests that BOLD is likely particularly sensitive to changes along these physical dimensions. Value, however, has the 4th highest weight for component 0. This is a much more abstract feature than the previous physical ones, but it likely does have a strong attentional component (e.g. losing a very valuable lottery ticket has very little physical change but would likely draw a large amount of focus). This reaffirms the importance of physical, visual change, and also leaves me more curious about the role of attention and it's relationship to these change ratings. For next steps I'm going to do some feature importance tests of these dimensions, but in another document.
