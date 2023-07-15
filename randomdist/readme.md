@@ -21,8 +21,6 @@ import seaborn as sns
 plt.style.use("ggplot")
 rcParams['figure.figsize'] = (12, 6)
 
-os.chdir('/Users/ekves/Desktop/GithubProjects/PCA')
-
 data = pd.read_csv('data.csv')
 data = data.drop(columns=['Question','QuestForCorr'])
 data = data.rename(columns={'1: Size':'Size','10: Temperature': 'Temperature','11: Tension':'Tension','12: Scent':'Scent',
